@@ -90,7 +90,7 @@ rm (rec_promotion_count, grouped_RecMed, no_promotion, no_recruitment, RecMed_Wi
 
 # #  rm (j, na_condition, variable2 )
 
-
+# For the letters 15000 letters were mailed out at the same day, with 3 types of mailings... it is coded as 1 event here.
 Methods_AND_Recruited[Methods_AND_Recruited$Letter_exposure %in% c(3), "Letter_exposure"] <- 1
 
 Methods_AND_Recruited[Methods_AND_Recruited$Letter_Reminder_exposure %in% c(3), "Letter_Reminder_exposure"] <- 1
@@ -191,10 +191,11 @@ Methods_AND_Recruited$new_campain <- rowSums(Methods_AND_Recruited[, c("Letter",
 
 
 
+##  
+## All main data set we started this script with had senstive information.. We can provide this following data sets below if needed by demand -
+##  "D:/INTERACT/Recruitment Analysis/data/Methods_AND_Recruited2.csv to run the regressions on. 
+
 write.csv(Methods_AND_Recruited, file = "D:/INTERACT/Recruitment Analysis/data/Methods_AND_Recruited2.csv")
-
-
-
 
 
 
@@ -203,7 +204,6 @@ rm (exposure, exposure_lg, Facebook_Reach, recruitment_clean, recruitment_clean_
     recruitment_hear_Par, recruitment_method, Test, total_rec_counts_date, i, Compute_Lagged_Effect )
     
 rm (test)
-
 
 
 source( "./data-preparation-scripts/Testing_possible_lag_combinations_in_regressions_loop")
