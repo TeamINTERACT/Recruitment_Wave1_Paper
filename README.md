@@ -1,4 +1,4 @@
-# INTERACT_national_recruitmen_Wave1
+# INTERACT_national_recruitment_Wave1
 R code for the INTERACT national recruitment analyses
 
 
