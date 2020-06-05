@@ -32,7 +32,7 @@ We cannot make the initial dataset public as it has senstive information. Howeve
 Original datasets can only been acccessed through secured servers for data confidentiality. 
 
 ## Data
-Data provided for public is only data that is used to model daily number of participants recruited by recruitment method in Montreal.à
+Data provided for public is only data that is used to model daily number of participants recruited by recruitment method in Montreal.
 Data file: 
 - Methods_AND_Recruited <- read.csv("D:/INTERACT/Recruitment Analysis/data/Methods_AND_Recruited2.csv")
 The corresponding R script file is: 
