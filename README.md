@@ -21,9 +21,9 @@ This work presents comprehensive data on costs, effectiveness, and bias of popul
 
 ## R script code
 R code for the INTERACT national recruitment analyses
-The final scripts used in the manuscript are uploaded. 
+The final scripts used in the manuscript are uploaded : https://github.com/TeamINTERACT/Recruitment_Wave1_Paper. 
 
-Run  D:\INTERACT\Recruitment Analysis\data_preparation_MAIN.. All the other scripts are called from this master file.
+First run main script : data_preparation_MAIN.. All the other scripts are called within this master file.
 
 The mailed letters analysis script and descriptives are  stand alone scripts, you will need to run sepertaly. They are not called from the master file.
 
