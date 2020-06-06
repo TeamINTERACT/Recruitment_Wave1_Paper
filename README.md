@@ -1,7 +1,7 @@
-# Title: Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods in the INTERACT study
+# Title: Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study
 
 # Authors: 
-Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M,  Pugh C, Fuller D, Winters M  &  Kestens Y
+Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, Fuller D, Winters M & Kestens Y
 
 # Submitted to: 
 Journal of Medical Internet Research 
@@ -23,13 +23,15 @@ This work presents comprehensive data on costs, effectiveness, and bias of popul
 R code for the INTERACT national recruitment analyses
 The final scripts used in the manuscript are uploaded : https://github.com/TeamINTERACT/Recruitment_Wave1_Paper. 
 
-First run main script : data_preparation_MAIN.. All the other scripts are called within this master file.
+First run main script : data_preparation_MAIN. All the other scripts are called within this master file.
 
 The mailed letters analysis script and descriptives are  stand alone scripts, you will need to run sepertaly. They are not called from the master file.
 
-We cannot make the initial dataset public as it has senstive information. However, the final dataset that is created to model the number of recruited participants in Montreal is uploaded.  Special requests for full datasets can be made with the arrangements with INTERACT principle investigators : Prof. Yan Kestens, Prof. Meghan Winters and Prof. Daniel Fuller. For more information please consult INTERACT website: https://teaminteract.ca/  
+We cannot make the initial dataset publicly available because they contain highly detailed individual information. Original datasets can only been acccessed through secured servers for data confidentiality. 
 
-Original datasets can only been acccessed through secured servers for data confidentiality. 
+However, the final dataset that is created to model the number of recruited participants in Montreal is uploaded, as it doesnot contain any personal identifiers. 
+
+Special requests for full datasets can be made by arrangements with INTERACT principal investigators : Prof. Yan Kestens, Prof. Meghan Winters and Prof. Daniel Fuller. For more information please consult INTERACT website: https://teaminteract.ca/  
 
 ## Data
 Data provided for public is only data that is used to model daily number of participants recruited by recruitment method in Montreal. Data doesnot contain any personal identifiers
