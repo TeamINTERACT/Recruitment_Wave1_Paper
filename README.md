@@ -1,4 +1,4 @@
-# Title: Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods across four Canadian Cities as part of the INTErventions, Research, and Action in Cities Team
+# Title: Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods in the INTERACT study
 
 # Authors: 
 Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M,  Pugh C, Fuller D, Winters M  &  Kestens Y
